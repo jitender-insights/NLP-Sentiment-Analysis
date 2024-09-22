@@ -16,7 +16,7 @@ This project implements a sentiment analysis application using machine learning 
 
 1. Train the models:
    ```
-   python src/train_model.py
+   python src/sentiment_analysis.ipynb
    ```
 2. Run the Streamlit app:
    ```
