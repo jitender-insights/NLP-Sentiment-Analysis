@@ -33,4 +33,4 @@ This project implements a sentiment analysis application using machine learning 
 - `requirements.txt`: List of Python dependencies.
 
 
-![alt text](image-1.png)
+![alt text](image.png)
