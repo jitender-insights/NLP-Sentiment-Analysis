@@ -31,3 +31,6 @@ This project implements a sentiment analysis application using machine learning 
 - `models/`: Stores the trained models and vectorizers.
 - `app.py`: The main Streamlit application.
 - `requirements.txt`: List of Python dependencies.
+
+
+![alt text](image.png)
